@@ -6,6 +6,6 @@ int main()
     {
         printf("wo");
     }
-    
-    return 0;
+
+    return 1;
 }
